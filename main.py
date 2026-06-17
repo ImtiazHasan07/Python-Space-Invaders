@@ -1,6 +1,5 @@
-import pygame
 import random
-
+import pygame
 from pygame.mixer_music import play
 
 class Player:
